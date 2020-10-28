@@ -8,5 +8,6 @@ public class Student {
     private String name;
     private String sex;
     private String youyou;
+    private String weight;
 }
 
