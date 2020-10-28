@@ -9,5 +9,11 @@ public class Student {
     private String sex;
     private String youyou;
     private String weight;
+
+    private Student(int age,String name){
+        this.age=age;
+        this.name=name;
+    }
+
 }
 
