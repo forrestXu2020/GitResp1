@@ -8,5 +8,10 @@ public class Student {
     private String name;
     private String sex;
     private String youyou;
+
+    private Student(int age,String name){
+        this.age=age;
+        this.name=name;
+    }
 }
 
